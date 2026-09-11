@@ -2,10 +2,9 @@
 
 I'm a Front-end developer with nearly a decade of experience crafting delightful user experieces.
 
-My framework of choice is Vue - but I love all things Javascript! 🫶
-
 🔍 I'm currently looking for a team who's as compassionate for the end-user as I am. Let's get in touch!
 
+[![Static Badge](https://img.shields.io/badge/derekmartin.dev-white?label=www.&labelColor=navy&color=orange&link=https://derekmartin.dev)](https://derekmartin.dev)
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/-derekmartin-blue?logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/derek-n-martin/)](https://www.linkedin.com/in/derek-n-martin/)
 [![Instagram Badge](https://img.shields.io/badge/-derekmartin.dev-E4405F?logo=instagram&logoColor=white&link=https://instagram.com/derekmartin.dev/)](https://instagram.com/derekmartin.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-derek.n.martin@gmail.com-EA4335?logo=Gmail&logoColor=white&link=mailto:derek.n.martin@gmail.com)](mailto:derek.n.martin@gmail.com)
